@@ -1,0 +1,28 @@
+{
+    "configurations": [
+        {
+            "type": "chrome",
+            "name": "http://127.0.0.1:3000/2-email.html",
+            "request": "launch",
+            "url": "http://127.0.0.1:3000/2-email.html"
+        },
+        {
+            "type": "chrome",
+            "name": "http://127.0.0.1:3000/curso-frontend-developer-practico-main/clase1.html",
+            "request": "launch",
+            "url": "http://127.0.0.1:3000/curso-frontend-developer-practico-main/clase1.html"
+        },
+        {
+            "type": "chrome",
+            "name": "http://127.0.0.1:3000/4-crear-cuenta.html",
+            "request": "launch",
+            "url": "http://127.0.0.1:3000/4-crear-cuenta.html"
+        },
+        {
+            "type": "chrome",
+            "name": "http://127.0.0.1:3000/7-menu-desktop.html",
+            "request": "launch",
+            "url": "http://127.0.0.1:3000/7-menu-desktop.html"
+        }
+    ]
+}
